@@ -1,0 +1,3 @@
+"D:\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\nurbsSurface.dir/objects.a
+D:\mingw\mingw64\bin\ar.exe cr CMakeFiles\nurbsSurface.dir/objects.a @CMakeFiles\nurbsSurface.dir\objects1.rsp
+D:\mingw\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\nurbsSurface.dir/objects.a -Wl,--no-whole-archive  -o nurbsSurface.exe -Wl,--out-implib,libnurbsSurface.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\nurbsSurface.dir\linklibs.rsp

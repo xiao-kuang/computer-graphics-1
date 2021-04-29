@@ -1,0 +1,4 @@
+C:/Users/Administrator/Desktop/Assiment1_yjw_2019533095/Coding/cmake-build-debug/CMakeFiles/glad.dir
+C:/Users/Administrator/Desktop/Assiment1_yjw_2019533095/Coding/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Administrator/Desktop/Assiment1_yjw_2019533095/Coding/cmake-build-debug/CMakeFiles/opengl-basic.dir
+C:/Users/Administrator/Desktop/Assiment1_yjw_2019533095/Coding/cmake-build-debug/CMakeFiles/edit_cache.dir

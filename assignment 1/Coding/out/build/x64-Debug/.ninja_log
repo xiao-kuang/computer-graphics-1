@@ -1,0 +1,5 @@
+# ninja log v5
+1	435	6380296440624288	CMakeFiles/glad.dir/3rdLibs/glad/src/glad.c.obj	b1a6fb867e6b7022
+438	474	6380296441014288	glad.lib	c969d7943a0c5bd9
+2	725	6380296443534273	CMakeFiles/opengl-basic.dir/src/main.cpp.obj	bf19803ae2e97965
+728	1056	6380296446684298	opengl-basic.exe	3fe6ce35d5d4104d

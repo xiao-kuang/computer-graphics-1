@@ -1,0 +1,4 @@
+C:/Users/Administrator/Desktop/assignment2_skeleton-main/assignment2_skeleton-main/Coding/cmake-build-debug/CMakeFiles/glad.dir
+C:/Users/Administrator/Desktop/assignment2_skeleton-main/assignment2_skeleton-main/Coding/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/assignment2_skeleton-main/assignment2_skeleton-main/Coding/cmake-build-debug/CMakeFiles/nurbsSurface.dir
+C:/Users/Administrator/Desktop/assignment2_skeleton-main/assignment2_skeleton-main/Coding/cmake-build-debug/CMakeFiles/rebuild_cache.dir

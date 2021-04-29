@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Administrator/Desktop/Assiment1_yjw_2019533095/Coding/src/main.cpp
+SurfaceRender.hpp
+C:/Users/Administrator/Desktop/Assiment1_yjw_2019533095/Coding/src/SurfaceRender.hpp
+header.hpp
+C:/Users/Administrator/Desktop/Assiment1_yjw_2019533095/Coding/src/header.hpp
+
